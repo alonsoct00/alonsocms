@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "bio_intros",
+  "info": {
+    "singularName": "bio-intro",
+    "pluralName": "bio-intros",
+    "displayName": "Bio intro"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "hero_intro": {
+      "type": "richtext"
+    }
+  }
+}
